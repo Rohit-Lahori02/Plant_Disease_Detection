@@ -1,2 +1,7 @@
 # Plant_Disease_Detection
-In this project, I developed a robust deep learning model with TensorFlow to classify images into 38 different categories. Additionally, I created a web application using Streamlit to showcase the results and integrated my deep learning model into this application.
+• Created a CNN model to classify plant diseases from images using TensorFlow and Keras with over 38 
+distinct disease categories. 
+• Preprocessed image datasets with data augmentation and implemented layers like Conv2D and 
+MaxPooling for accurate predictions. 
+• Integrated Streamlit for user-friendly display of real-time classification results, enhancing accessibility 
+and visualization of predictions.
